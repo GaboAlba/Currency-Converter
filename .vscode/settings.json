@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "okhttp-2.7.5.jar",
+        "okhttp-4.9.3.jar",
+        "kotlin-stdlib-1.7.10.jar",
+        "okio-2.10.0.jar"
+    ]
+}
